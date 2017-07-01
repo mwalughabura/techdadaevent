@@ -94,11 +94,30 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.nav-menu {
+    background: pink;
+    padding: 1.2em;
+}
 
+.site-header {
+    padding-top: 8em;
+}
+/*.nav-menu img{
+    padding: 3px;
+}*/
 
+main img {
+    width: 100%;
+}
 
+body {
+    background: purple;
+}
 
-
+#about {
+    color: black;
+    background: pink;
+}
 
 
 
