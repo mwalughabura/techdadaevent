@@ -117,18 +117,47 @@ body {
 #about {
     color: black;
     background: pink;
+    padding: 6em;
 }
 
+#program {
+    color: black;
+    background: purple;
+    padding: 6em;
+}
 
+#speakers {
+    color: black;
+    background: pink;
+    padding: 6em;
+}
 
+#contact {
+    color: black;
+    background: purple;
+    padding: 6em;
+}
 
+footer {
+    background: black;
+    color: white;
+    padding: 2em;
+}
 
+form input, textarea, form button {
+    width: 100%;
+}
+/*
+.buttoni {
+    padding-left: 20em;
+    padding-right: 19em;
+}
 
-
-
-
-
-
+.has-success {
+    padding-left: 20em;
+    padding-right: 20em;
+}
+*/
 
 /* ==========================================================================
    Helper classes
