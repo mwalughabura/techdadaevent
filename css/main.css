@@ -95,7 +95,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 .nav-menu {
-    background: pink;
+    background: #ff4d4d;
     padding: 1.2em;
 }
 
@@ -104,6 +104,12 @@ textarea {
     padding-top: 7em;
     color: white;
 }
+
+#speakers img {
+  width: 100%;
+  height: 300px;
+}
+
 
 .site-header {
     padding-top: 8em;
@@ -122,7 +128,7 @@ body {
 
 #about {
     color: black;
-    background: pink;
+    background: #ff4d4d;
     padding: 6em;
 }
 
@@ -131,12 +137,22 @@ body {
     background: purple;
     padding: 6em;
 }
+#program p {
+  font-size: 150%;
+}
 
 #speakers {
     color: black;
-    background: pink;
+    background: #ff4d4d;
     padding: 6em;
 }
+
+#register {
+  color: black;
+  background: magenta;
+  padding: 6em;
+}
+
 
 #contact {
     color: black;
